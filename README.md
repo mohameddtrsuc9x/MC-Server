@@ -5,4 +5,4 @@
 
 ## sudo apt-get install openjdk-17-jdk
 
-## java -Xmx12288M -Xms12288M server.jar nogui
+## java -jar -Xmx12288M -Xms12288M server.jar nogui
